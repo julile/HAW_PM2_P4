@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.0" icons="true" always-add-relationships="false" generalizations="true" realizations="false" 
+  associations="true" dependencies="true" nesting-relationships="false" router="FAN">  
+  <class id="1" language="java" name="de.hawhh.informatik.sml.kino.materialien.Kino" 
+    project="Kinoticketverkauf_VorlageBlatt03" 
+    file="/Kinoticketverkauf_VorlageBlatt03/src/de/hawhh/informatik/sml/kino/materialien/Kino.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="180" x="529" y="153"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="de.hawhh.informatik.sml.kino.materialien.Kinosaal" 
+    project="Kinoticketverkauf_VorlageBlatt03" 
+    file="/Kinoticketverkauf_VorlageBlatt03/src/de/hawhh/informatik/sml/kino/materialien/Kinosaal.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="180" x="349" y="519"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="de.hawhh.informatik.sml.kino.materialien.Vorstellung" 
+    project="Kinoticketverkauf_VorlageBlatt03" 
+    file="/Kinoticketverkauf_VorlageBlatt03/src/de/hawhh/informatik/sml/kino/materialien/Vorstellung.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="53" width="180" x="550" y="385"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="de.hawhh.informatik.sml.kino.materialien.Tagesplan" 
+    project="Kinoticketverkauf_VorlageBlatt03" 
+    file="/Kinoticketverkauf_VorlageBlatt03/src/de/hawhh/informatik/sml/kino/materialien/Tagesplan.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="180" x="868" y="269"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="de.hawhh.informatik.sml.kino.materialien.Film" 
+    project="Kinoticketverkauf_VorlageBlatt03" 
+    file="/Kinoticketverkauf_VorlageBlatt03/src/de/hawhh/informatik/sml/kino/materialien/Film.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="53" width="180" x="590" y="519"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="false" protected="false" private="false" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="de.hawhh.informatik.sml.kino.fachwerte.Uhrzeit" 
+    project="Kinoticketverkauf_VorlageBlatt03" 
+    file="/Kinoticketverkauf_VorlageBlatt03/src/de/hawhh/informatik/sml/kino/fachwerte/Uhrzeit.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="94" width="176" x="810" y="519"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="de.hawhh.informatik.sml.kino.fachwerte.Datum" 
+    project="Kinoticketverkauf_VorlageBlatt03" 
+    file="/Kinoticketverkauf_VorlageBlatt03/src/de/hawhh/informatik/sml/kino/fachwerte/Datum.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="148" width="279" x="1026" y="519"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="de.hawhh.informatik.sml.kino.fachwerte.Eurocent" 
+    project="Kinoticketverkauf_VorlageBlatt03" 
+    file="/Kinoticketverkauf_VorlageBlatt03/src/de/hawhh/informatik/sml/kino/fachwerte/Eurocent.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="94" width="176" x="42" y="385"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="9" language="java" name="de.hawhh.informatik.sml.kino.fachwerte.FSK" 
+    project="Kinoticketverkauf_VorlageBlatt03" 
+    file="/Kinoticketverkauf_VorlageBlatt03/src/de/hawhh/informatik/sml/kino/fachwerte/FSK.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="682" y="700"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="10" language="java" name="de.hawhh.informatik.sml.kino.fachwerte.Platz" 
+    project="Kinoticketverkauf_VorlageBlatt03" 
+    file="/Kinoticketverkauf_VorlageBlatt03/src/de/hawhh/informatik/sml/kino/fachwerte/Platz.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="94" width="176" x="309" y="707"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="de.hawhh.informatik.sml.kino.werkzeuge.ObservableSubwerkzeug" 
+    project="Kinoticketverkauf_VorlageBlatt03" 
+    file="/Kinoticketverkauf_VorlageBlatt03/src/de/hawhh/informatik/sml/kino/werkzeuge/ObservableSubwerkzeug.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="76" width="252" x="1012" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="de.hawhh.informatik.sml.kino.werkzeuge.platzverkauf.PlatzVerkaufsWerkzeug" 
+    project="Kinoticketverkauf_VorlageBlatt03" 
+    file="/Kinoticketverkauf_VorlageBlatt03/src/de/hawhh/informatik/sml/kino/werkzeuge/platzverkauf/PlatzVerkaufsWerkzeug.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="319" y="69"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="de.hawhh.informatik.sml.kino.werkzeuge.kasse.KassenWerkzeug" 
+    project="Kinoticketverkauf_VorlageBlatt03" 
+    file="/Kinoticketverkauf_VorlageBlatt03/src/de/hawhh/informatik/sml/kino/werkzeuge/kasse/KassenWerkzeug.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="76" width="206" x="766" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="de.hawhh.informatik.sml.kino.werkzeuge.barzahlung.BarzahlungsWerkzeug" 
+    project="Kinoticketverkauf_VorlageBlatt03" 
+    file="/Kinoticketverkauf_VorlageBlatt03/src/de/hawhh/informatik/sml/kino/werkzeuge/barzahlung/BarzahlungsWerkzeug.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="197" y="284"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="de.hawhh.informatik.sml.kino.werkzeuge.datumsauswaehler.DatumAuswaehlWerkzeug" 
+    project="Kinoticketverkauf_VorlageBlatt03" 
+    file="/Kinoticketverkauf_VorlageBlatt03/src/de/hawhh/informatik/sml/kino/werkzeuge/datumsauswaehler/DatumAuswaehlWerkzeug.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="76" width="258" x="1109" y="153"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" 
+    name="de.hawhh.informatik.sml.kino.werkzeuge.vorstellungsauswaehler.VorstellungsAuswaehlWerkzeug" 
+    project="Kinoticketverkauf_VorlageBlatt03" 
+    file="/Kinoticketverkauf_VorlageBlatt03/src/de/hawhh/informatik/sml/kino/werkzeuge/vorstellungsauswaehler/VorstellungsAuswaehlWerkzeug.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="76" width="278" x="749" y="153"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="true"/>    
+    </display>  
+  </class>  
+  <association id="17">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="18" name="_tagesplaene"/>      
+      <multiplicity id="19" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="20">    
+    <bendpoint x="32" y="269"/>    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <dependency id="21">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <dependency id="22">    
+    <bendpoint x="318" y="269"/>    
+    <bendpoint x="318" y="385"/>    
+    <bendpoint x="318" y="519"/>    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <generalization id="23">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+  <association id="24">    
+    <bendpoint x="717" y="484"/>    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="25" name="_anfangszeit"/>      
+      <multiplicity id="26" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="27">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <dependency id="28">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="14"/>  
+  </dependency>  
+  <association id="29">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="30" name="_ausgewaehltesDatum"/>      
+      <multiplicity id="31" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="32">    
+    <bendpoint x="1078" y="153"/>    
+    <bendpoint x="1078" y="269"/>    
+    <bendpoint x="1078" y="385"/>    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <dependency id="33">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <association id="34">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="35" name="_datumAuswaehlWerkzeug"/>      
+      <multiplicity id="36" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="37">    
+    <bendpoint x="1049" y="156"/>    
+    <bendpoint x="1047" y="243"/>    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <association id="38">    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="39" name="_tagesplan"/>      
+      <multiplicity id="40" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="41">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="42" name="_plaetze"/>      
+      <multiplicity id="43" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="44">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="45" name="_kino"/>      
+      <multiplicity id="46" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="47">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="48" name="_vorstellungAuswaehlWerkzeug"/>      
+      <multiplicity id="49" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="50">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="51" name="_vorstellungen"/>      
+      <multiplicity id="52" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="53">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <association id="54">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="55" name="_fsk"/>      
+      <multiplicity id="56" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="57">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+  <association id="58">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="59" name="_vorstellung"/>      
+      <multiplicity id="60" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="61">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="62" name="_eingezahlt"/>      
+      <multiplicity id="63" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="64">    
+    <bendpoint x="519" y="269"/>    
+    <bendpoint x="519" y="385"/>    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="65" name="_kinosaele"/>      
+      <multiplicity id="66" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="67">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="68" name="_tag"/>      
+      <multiplicity id="69" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="70">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="71" name="_datum"/>      
+      <multiplicity id="72" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="73">    
+    <bendpoint x="778" y="476"/>    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="74" name="_endzeit"/>      
+      <multiplicity id="75" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="76">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="77" name="_film"/>      
+      <multiplicity id="78" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="79">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="6"/>  
+  </dependency>  
+  <association id="80">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="81" name="_platzVerkaufsWerkzeug"/>      
+      <multiplicity id="82" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="83">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <association id="84">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="85" name="_preis"/>      
+      <multiplicity id="86" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="87">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="88" name="_kinosaal"/>      
+      <multiplicity id="89" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="90">    
+    <bendpoint x="498" y="153"/>    
+    <bendpoint x="497" y="226"/>    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <dependency id="91">    
+    <bendpoint x="559" y="519"/>    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <association id="92">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="93" name="_vorstellung"/>      
+      <multiplicity id="94" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
